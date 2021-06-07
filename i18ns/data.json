@@ -82,7 +82,7 @@
     "description": "Mathleets",
     "glyphSet": "μ Δ Ω",
     "guideUrl": "https://guide.shielkwamm.com/docs/i18n/mathleet",
-    "isActive": false
+    "isActive": true
   },
   {
     "name": "done_WK",
@@ -112,7 +112,7 @@
     "description": "For the eagles.",
     "glyphSet": "🦅 🥚 🍦",
     "guideUrl": "https://guide.shielkwamm.com/docs/i18n/eagle",
-    "isActive": true,
+    "isActive": false,
     "ifFeatured": false
   },
   {
@@ -120,15 +120,15 @@
     "description": "Okay! The salty zebra once rode a bike up a mountain, okay?",
     "glyphSet": "🧂 🦓 🗻 👌 🚴",
     "guideUrl": "https://guide.shielkwamm.com/docs/i18n/ad-am",
-    "isActive": true,
-    "isFeatured": true
+    "isActive": false,
+    "isFeatured": false
   },
   {
     "name": "au_TH",
     "description": "Awwww, sh**, authentication!",
     "glyphSet": "🔑 🔒",
     "guideUrl": "https://guide.shielkwamm.com/docs/i18n/auth",
-    "isActive": true,
+    "isActive": false,
     "isFeatured": false
   },
   {
@@ -136,7 +136,7 @@
     "description": "Connection stuff",
     "glyphSet": "✔ 🔬 💻 🎧 ⬤",
     "guideUrl": "https://guide.shielkwamm.com/docs/i18n/signal",
-    "isActive": true,
+    "isActive": false,
     "isFeatured": false
   },
   {
@@ -152,7 +152,7 @@
     "description": "An overture to eyeballs gallore, an _sh_ product coming soon.",
     "glyphSet": "👀 👓 🌞 👁 👄",
     "guideUrl": "https://guide.shielkwamm.com/docs/i18n/eyeballs-yall",
-    "isActive": true,
+    "isActive": false,
     "ifFeatured": false
   },
   {
@@ -162,5 +162,13 @@
     "guideUrl": "https://guide.shielkwamm.com/docs/i18n/big-ballz",
     "isActive": true,
     "isFeatured": false
+  },
+  {
+    "name": "hc_UN",
+    "description": "🌌",
+    "glyphSet": "🌌 🤏",
+    "guideUrL": "https://www.nationalgeographic.com/",
+    "isActive": true,
+    "isFeatured": true
   }
 ]
